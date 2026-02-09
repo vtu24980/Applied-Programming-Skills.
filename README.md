@@ -56,6 +56,7 @@
 | ------- |
 | [0344-reverse-string](https://github.com/vtu24980/Applied-Programming-Skills./tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/vtu24980/Applied-Programming-Skills./tree/master/0387-first-unique-character-in-a-string) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/vtu24980/Applied-Programming-Skills./tree/master/1704-determine-if-string-halves-are-alike) |
 ## Queue
 |  |
 | ------- |
@@ -64,6 +65,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/vtu24980/Applied-Programming-Skills./tree/master/0387-first-unique-character-in-a-string) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/vtu24980/Applied-Programming-Skills./tree/master/1704-determine-if-string-halves-are-alike) |
 ## Linked List
 |  |
 | ------- |
