@@ -42,6 +42,7 @@
 ## Math
 |  |
 | ------- |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/vtu24980/Applied-Programming-Skills./tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/vtu24980/Applied-Programming-Skills./tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 ## Binary Search
 |  |
@@ -70,4 +71,8 @@
 |  |
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/vtu24980/Applied-Programming-Skills./tree/master/0876-middle-of-the-linked-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/vtu24980/Applied-Programming-Skills./tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
